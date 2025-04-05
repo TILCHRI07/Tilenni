@@ -38,7 +38,7 @@ public class MacchinettaCaffe {
         String scelta;
 
         do {
-            System.out.print("Scegli un'operazione (caffe per fare un caffe, zucchero per scegliere cucchiaini di zucchero, visualizza per vedere il numero di caffè erogati, ricarica per ricaricare la macchinetta, 0 per uscire): ");
+            System.out.print("Mi raccomando scegli un'operazione prima (caffe per fare un caffe, zucchero per scegliere cucchiaini di zucchero, visualizza per vedere il numero di caffè erogati, ricarica per ricaricare la macchinetta, 0 per uscire): ");
             scelta = scanner.next();
 
             switch (scelta) {
