@@ -45,7 +45,7 @@ public class Contatore {
             switch (scelta) {
                 case '+':
                     contatore.incrementa();
-                    System.out.println("Contatore incrementato.");
+                    System.out.println("Il Contatore è stato incrementato.");
                     break;
                 case '-':
                     contatore.decrementa();
