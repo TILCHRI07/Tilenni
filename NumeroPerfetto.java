@@ -22,7 +22,7 @@ public class NumeroPerfetto {
 				}
 			}
 			if (numero == sommadivisori) {
-				System.out.println("PERFETTO");
+				System.out.println("E' davvero PERFETTO");
 
 			} else {
 				System.out.println("NON PERFETTO");
